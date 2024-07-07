@@ -9,6 +9,7 @@ The goal of this POS system is to provide a comprehensive, scalable, and user-fr
 ### 1. User Interface
 
 - **Intuitive Interface**
+
   - Design an easy-to-use interface for sales associates.
   - Provide a touchscreen-friendly design.
 
@@ -19,15 +20,18 @@ The goal of this POS system is to provide a comprehensive, scalable, and user-fr
 ### 2. Sales Management
 
 - **Product Lookup**
+
   - Enable quick lookup of products by name, SKU, or barcode.
   - Support for barcode scanning.
 
 - **Transaction Handling**
+
   - Allow users to add products to a sales transaction.
   - Support for multiple payment methods (e.g., cash, credit card, digital wallets).
   - Enable split payments.
 
 - **Receipt Printing and Emailing**
+
   - Provide options to print receipts or send them via email.
   - Support for customizable receipt templates.
 
@@ -38,10 +42,12 @@ The goal of this POS system is to provide a comprehensive, scalable, and user-fr
 ### 3. Inventory Management
 
 - **Stock Tracking**
+
   - Automatically update inventory levels based on sales.
   - Provide real-time inventory updates.
 
 - **Low Stock Alerts**
+
   - Notify users when stock levels are low.
   - Allow setting of reorder points.
 
@@ -52,10 +58,12 @@ The goal of this POS system is to provide a comprehensive, scalable, and user-fr
 ### 4. Customer Management
 
 - **Customer Profiles**
+
   - Create and manage customer profiles.
   - Store contact information, purchase history, and preferences.
 
 - **Loyalty Programs**
+
   - Implement loyalty programs to reward repeat customers.
   - Track and redeem loyalty points.
 
@@ -66,6 +74,7 @@ The goal of this POS system is to provide a comprehensive, scalable, and user-fr
 ### 5. Employee Management
 
 - **User Roles and Permissions**
+
   - Define different user roles (e.g., cashier, manager).
   - Assign permissions based on roles.
 
@@ -76,10 +85,12 @@ The goal of this POS system is to provide a comprehensive, scalable, and user-fr
 ### 6. Reporting and Analytics
 
 - **Sales Reports**
+
   - Provide detailed sales reports (e.g., daily, weekly, monthly).
   - Include metrics such as total sales, average transaction value, and top-selling products.
 
 - **Inventory Reports**
+
   - Offer insights into stock levels, low stock items, and inventory turnover.
 
 - **Employee Performance Reports**
@@ -89,6 +100,7 @@ The goal of this POS system is to provide a comprehensive, scalable, and user-fr
 ### 7. Integration
 
 - **Commerce Cloud Integration**
+
   - Seamlessly integrate with the Commerce Cloud system for unified data management.
   - Sync inventory, customer data, and sales information.
 

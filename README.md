@@ -13,6 +13,7 @@ The global goal is to create a network of autonomous enterprises where all actio
 ### Project Goals
 
 We aim to develop the following integrated tools:
+
 - **Commerce Cloud:** E-commerce system
 - **POS:** Point of Sale
 - **MDM:** Master Data Management System
@@ -46,6 +47,21 @@ We aim to develop the following integrated tools:
 This repository is created to find like-minded individuals. If you are interested in creating advanced business systems and developing this idea together, join us!
 
 ### How to Contribute
+
+I've created folders for each system in this repository. Each folder contains the following files:
+
+1. **requirements.md:** Describes the core system requirements.
+2. **architecture.md:** System architecture.
+3. **ai-features.md:** Features utilizing artificial intelligence to enhance the product.
+
+Join our Discord server.
+To contribute, create a Pull Request (PR).
+Feel free to message me on Telegram, Discord for any inquiries.
+
+Telegram:
+@vitram
+Discord:
+@drvitram
 
 1. **Fork the Repository:** Start by forking the repository on GitHub.
 2. **Clone the Project:** Clone the repository to your local machine.
